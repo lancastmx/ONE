@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "c9a2e5a74003bfb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ddb51682beed4d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3708ea3f91eddd99",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Imagenes/[LAD]_Glosario_ONE[1].pdf"
+              }
+            }
+          },
+          {
+            "id": "2d5c4d94a618a53a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinkedIn/LinkedIn haz que tu perfil trabaje para ti..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b46a5cee9c4067c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "becfb56fe01547bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db66c4884425e1a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9aa1683f6fb41d0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b386dd5df77f3df5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "787ae57c60cc8caf",
+    "type": "split",
+    "children": [
+      {
+        "id": "019ec167c8caf472",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebe5c48432807093",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LinkedIn/LinkedIn haz que tu perfil trabaje para ti..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89f4474558dc353f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LinkedIn/LinkedIn haz que tu perfil trabaje para ti..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "121082125ca76241",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7fc40d409bb346da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LinkedIn/LinkedIn haz que tu perfil trabaje para ti..md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2d5c4d94a618a53a",
+  "lastOpenFiles": [
+    "Imagenes/[LAD]_Glosario_ONE[1].pdf",
+    "Imagenes/Hello!!.jpg"
+  ]
+}
